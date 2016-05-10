@@ -1,3 +1,30 @@
+# VS Hidden Directories
+.vs/
+
+# VS build directories
+Build/
+Debug/
+Release/
+Libs/
+ipch/
+
+
+# VS files
+*.sdf
+*.suo
+*.opensdf
+*.ipch
+*.orig
+*.settings
+*.db
+*.opendb
+*.pdb
+*.exp
+*.tlog
+*.pch
+*.idb
+*.user
+
 # Compiled Object files
 *.slo
 *.lo
